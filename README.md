@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a software developer, I have a strong background in computer science, web development, and data science, and am passionate about building quality software solutions. Experienced in various programming languages ​​such as C, C++, Python and other frameworks such as React. I am skilled at designing and implementing full-stack web applications that are reliable, efficient and easy to maintain.<br>
+As a software developer, I have a strong background in computer science, web development, and data science, and I am passionate about building quality software solutions. Experienced in various programming languages ​​such as C, C++, Python and other frameworks such as React. I am skilled at designing and implementing full-stack web applications that are reliable, efficient and easy to maintain.<br>
 
 
 ## 🌐 Socials:
